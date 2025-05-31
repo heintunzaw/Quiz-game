@@ -1,2 +1,2 @@
 # Quiz-game
-A simple Python quiz game project
+A simple Python quiz game project six
